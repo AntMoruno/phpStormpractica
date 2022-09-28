@@ -8,7 +8,9 @@
     </head>
     <body>
         <?php
-            echo "<p> Integración GitHub con phpStorm </p>"
+            echo "<p>
+                    <h1>Integración GitHub con phpStorm</h1>
+                </p>"
         ?>
     </body>
 </html>
