@@ -9,7 +9,7 @@
     <body>
         <?php
             echo "<p>
-                    <h1>Integración GitHub con phpStorm</h1>
+                    <h2>Integración GitHub con phpStorm</h2>
                 </p>"
         ?>
     </body>
